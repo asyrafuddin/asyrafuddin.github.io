@@ -15,8 +15,9 @@ intro:
 
 {% include feature_row id="intro" type="center" %}
 
-## Title
+## My Biography
 
-Body
+Name : Asyrafuddin Fadhil
+Department : Artificial Intelligence
 
 ![collegeofcomputing](/assets/images/collegeofcomputing.jpg)
